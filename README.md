@@ -1,2 +1,2 @@
-# ineuron-Project
+# Project
 Machine Learning
